@@ -1,4 +1,6 @@
  #!/bin/bash
+  # <github-final-project>
+
   echo "Enter the principal:"
    read p
    echo "Enter rate of interest per year:"
